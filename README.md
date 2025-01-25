@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![fastroware's Stats](https://github-readme-stats.vercel.app/api?username=fastroware&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-![fastroware's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fastroware&theme=tokyonight&hide_border=false)
 
 ![fastroware's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fastroware&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
